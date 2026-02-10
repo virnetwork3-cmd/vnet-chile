@@ -1,0 +1,7 @@
+{
+  "name": "Virtual Network Chile 7 - Desarrollo Web de Próxima Generación",
+  "description": "Agencia líder en desarrollo web, apps móviles y software a medida con integración de IA avanzada y diseño futurista FUI/HUD.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
